@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ggbtunga
+- 👋 Hi, I’m @ggbtunga and my name is Hick
 - 👀 I’m interested in WEB developing
-- 🌱 I’m currently learning HTML/CSS
+- 🌱 I’m currently learning HTML/CSS/JS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 My personal email- hicktan@gmail.com
 
 <!---
 ggbtunga/ggbtunga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
