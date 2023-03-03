@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ggbtunga and my name is Hick
-- 👀 I’m interested in WEB developing
-- 🌱 I’m currently learning HTML/CSS/JS
-- 💞️ I’m looking to collaborate on ...
+- 👋 Olá,me chamo Hick
+- 👀 Trabalho com desenvolvimento web front-end
+- 🌱 Tenho conhecimentos em HTML/CSS/JS/REACT/NEXT.JS/BOOTSTRAP
+- 💞️ Estou a procura pela primeira oportunidade como DEV
 - 📫 My personal email- hicktan@gmail.com
 
 <!---
